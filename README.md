@@ -1,2 +1,2 @@
-# botexample
-Example bot discord with discord.js
+# Tạo bot
+Bạn cần tạo bot ( nó có ở Google )
